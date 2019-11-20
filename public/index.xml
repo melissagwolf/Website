@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Melissa G Wolf</title>
+    <link>/</link>
+    <description>Recent content in Home on Melissa G Wolf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Education Doctoral Candidate in Education, Emphasis in Quantitative Methods
+University of California, Santa Barbara
+Advisor: Andrew Maul
+Master of Arts in Research Methods and Statistics
+University of Denver, 2017
+Advisor: Kathy Green
+Graduate Certificate in Measurement, Statistics and Evaluation
+University of Maryland, College Park, 2012
+Advisor: Gregory R. Hancock
+Bachelor of Arts in Communication
+University of Delaware, 2009
+Minors: Psychology, Anthropology
+Research Publications  Wolf, M. G. (in preparation). Lies, damn lies, and survey responses.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/preprints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/preprints/</guid>
+      <description>Selected preprints or publications Survey Item Validation
+Abstract
+In the social sciences, validity refers to the adequacy of a survey (or other mode of assessment) for its intended purpose. Validation refers to the activities undertaken during and after the construction of the survey to evaluate and improve validity. Item validation refers here to procedures for evaluating and improving respondents’ understanding of the questions and response options included in a survey.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/spss-to-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/spss-to-r/</guid>
+      <description>I spent the first ~8 years of my career exclusively using SPSS and recently began migrating to R. My brilliant friend (and R master) Danny once told me that the best way to learn R is by struggling through it, and, unfortunately, he&amp;rsquo;s right.
+Still, some thoughtful scaffolding can go a long way. As the TA of our intro stat sequence, I began creating documents to help students (and myself!) either learn R, or transition from SPSS to R.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+  </channel>
+</rss>
