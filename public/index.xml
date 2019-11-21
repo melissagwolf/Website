@@ -48,8 +48,8 @@ In the social sciences, validity refers to the adequacy of a survey (or other mo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/spss-to-r/</guid>
-      <description>I spent the first ~8 years of my career exclusively using SPSS and recently began migrating to R. My brilliant friend (and R master) Danny once told me that the best way to learn R is by struggling through it, and, unfortunately, he&amp;rsquo;s right.
-Still, some thoughtful scaffolding can go a long way. As the TA of our intro stat sequence, I began creating documents to help students (and myself!) either learn R, or transition from SPSS to R.</description>
+      <description>Like many others applied quantitative researchers, I learned statistics on the point-and-click software SPSS. However, when I wanted to transition to R, I couldn&amp;rsquo;t find any material that demonstrated how to do an analysis in SPSS and R simultaneously.
+As the TA of our intro stat sequence, I&amp;rsquo;ve begun creating labs that include instructions in SPSS (point and click) and the corresponding R script necessary to produce the same output. If you&amp;rsquo;re interested in transitioning from SPSS to R, I hope you&amp;rsquo;ll find this helpful!</description>
     </item>
     
     <item>
