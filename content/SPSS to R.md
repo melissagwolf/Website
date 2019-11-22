@@ -10,3 +10,6 @@ As the TA of our intro stat sequence, I've begun creating labs that include inst
 
 - [Descriptives, Recoding variables, T-tests, Cohen's D](/Lab-7.pdf)
   - [Data](/lab7data.sav)
+  
+- [Intro to R](http://www.dbkatz.com/1/01/01/beginning-a-new-intro-to-r-workshop/) 
+  - Tutorial created by my brilliant colleague, [Danny](https://twitter.com/DanK_atz)
