@@ -27,10 +27,10 @@ footnotereturnlinkcontents = "↩"
     name = "SPSS to R"
     url = "/spss to r/"
     weight = 4
-#[[menu.main]]
-    #name = "Projects"
-    #url = "/projects/"
-    #weight = 5
+[[menu.main]]
+    name = "Test"
+    url = "/test/"
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
