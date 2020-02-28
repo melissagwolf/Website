@@ -2,7 +2,7 @@
 ---
 ### Selected preprints or publications
 
-[**Survey Item Validation**](/Survey Item Validation - Wolf et al.pdf)  
+[**Survey Item Validation**](https://www.psyarxiv.com/k27w3/)  
 *Abstract*  
 In the social sciences, validity refers to the adequacy of a survey (or other mode of assessment) for its intended purpose. Validation refers to the activities undertaken during and after the construction of the survey to evaluate and improve validity. Item validation refers here to procedures for evaluating and improving respondents’ understanding of the questions and response options included in a survey. Verbal probing techniques such as cognitive interviews can be used to understand respondents’ response
 process, that is, what they are thinking as they answer the survey items. Although cognitive interviews can provide evidence for the validity of survey items, they are time-consuming and thus rarely used in practice. The Response Process Evaluation (RPE) method is a newly-developed technique that utilizes
