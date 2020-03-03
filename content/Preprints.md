@@ -2,7 +2,7 @@
 title: ""
 output:
   html_document:
-pagetitle: test 
+pagetitle: preprints
 ---
 ### Selected preprints or publications
 
