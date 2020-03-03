@@ -1,8 +1,8 @@
 ---
-title: "Preprints"
+title: ""
 output:
   html_document:
-pagetitle: Preprints
+pagetitle: test 
 ---
 ### Selected preprints or publications
 
