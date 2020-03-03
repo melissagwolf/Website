@@ -1,5 +1,9 @@
 ---
-title:"Preprints"
+title: "Preprints"
+output:
+  html_document:
+    toc: yes
+pagetitle: Preprints
 ---
 ### Selected preprints or publications
 
