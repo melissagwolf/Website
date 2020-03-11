@@ -1,4 +1,8 @@
 ---
+title: ""
+output:
+  html_document:
+pagetitle: preprints
 ---
 Like many others applied quantitative researchers, I learned statistics on the point-and-click software SPSS.  However, when I wanted to transition to R, I couldn't find any material that demonstrated how to do an analysis in SPSS and R simultaneously.        
 
