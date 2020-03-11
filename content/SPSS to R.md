@@ -4,7 +4,7 @@ Like many others applied quantitative researchers, I learned statistics on the p
 
 As the TA of our intro stat sequence, I've begun creating labs that include instructions in SPSS (point and click) and the corresponding R script necessary to produce the same output.  If you're interested in transitioning from SPSS to R, I hope you'll find this helpful!
 
-- [R Basics: Reading SPSS data into R](/Intro to R.pdf){target="blank"}
+- [R Basics: Reading SPSS data into R](/Intro to R.pdf){target="_blank"}
   - [Data](/lab7data.sav)
   - *Updated Feb 5 2020*
 
