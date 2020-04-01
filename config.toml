@@ -28,9 +28,9 @@ footnotereturnlinkcontents = "↩"
     url = "/spss to r/"
     weight = 4
 #[[menu.main]]
-    #name = "Projects"
-    #url = "/projects/"
-    #weight = 5
+#    name = "Monte Carlo"
+#    url = "/monte carlo/"
+#    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
