@@ -22,9 +22,9 @@ Minors: Psychology, Anthropology
 
 ### Publications
 
-1. **Wolf, M. G.** (in preparation). Survey Uses May Influence Survey Responses. Psychological Assessment.
+1. **Wolf, M. G.** (in preparation). Survey uses may influence survey responses. Psychological Assessment.
 
-1. McNeish, D, & **Wolf, M. G.** (under review). Thinking twice about sum scores. Advances in Methods and Practices in Psychological Science.
+1. McNeish, D, & **Wolf, M. G.** (under review). Thinking twice about sum scores. Behavior Research Methods.
 
 1. **Wolf, M. G.**, Ihm, E., Maul, A., & Taves, A. (in press). Survey item validation. In S. Engler & M. Stausberg (Ed.), Handbook of Research Methods in the Study of Religion (2nd ed.). Routledge.
 
