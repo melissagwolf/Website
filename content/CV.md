@@ -22,7 +22,7 @@ Minors: Psychology, Anthropology
 
 ### Publications
 
-1. **Wolf, M. G.** (in preparation). Lies, damn lies, and survey responses. Psychological Assessment.
+1. **Wolf, M. G.** (in preparation). Survey Uses May Influence Survey Responses. Psychological Assessment.
 
 1. McNeish, D, & **Wolf, M. G.** (under review). Thinking twice about sum scores. Advances in Methods and Practices in Psychological Science.
 

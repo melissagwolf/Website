@@ -28,5 +28,5 @@ As the TA of our intro stat sequence, I've begun creating labs that include inst
 - [ANOVA and Dummy Variables](/Week-4-Lab.pdf)
   - [Data](/Week4.sav)
   
-- [Intro to R](http://www.dbkatz.com/1/01/01/beginning-a-new-intro-to-r-workshop/) 
-  - Tutorial created by my brilliant colleague, [Danny](https://twitter.com/DanK_atz)
+- [Intro to R](https://dbkatz.com/presentations/) 
+  - Tutorial created by my brilliant colleague, [Danny](https://dbkatz.com/about/)
