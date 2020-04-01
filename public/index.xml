@@ -54,22 +54,22 @@ summary(cars)## speed dist ## Min.</description>
     </item>
     
     <item>
-      <title>About Hugo XMin</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
-    </item>
-    
-    <item>
-      <title>SPSS to R</title>
+      <title></title>
       <link>/spss-to-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/spss-to-r/</guid>
       <description>Like many others applied quantitative researchers, I learned statistics on the point-and-click software SPSS. However, when I wanted to transition to R, I couldn’t find any material that demonstrated how to do an analysis in SPSS and R simultaneously.
 As the TA of our intro stat sequence, I’ve begun creating labs that include instructions in SPSS (point and click) and the corresponding R script necessary to produce the same output.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
     </item>
     
   </channel>
