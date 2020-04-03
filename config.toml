@@ -33,5 +33,5 @@ footnotereturnlinkcontents = "↩"
 #    weight = 5
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Melissa Gordon Wolf Melissa G Wolf"
     footer = "&copy; [Melissa G Wolf](https://melissagwolf.com) | [Twitter](https://twitter.com/melissagwolf) | [Github](https://github.com/melissagwolf) | [Contact](mailto:melissagordon@ucsb.edu)"
