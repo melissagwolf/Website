@@ -49,7 +49,7 @@ Minors: Psychology, Anthropology
 
 1. **Wolf, M. G.** (2020, April). The Response Process Evaluation Method.  Paper to be presented at the meeting of the International Objective Measurement Workshop, San Francisco, CA.
 
-1. **Wolf, M. G.** & Ihm, E. (2019, November). Validation Methods and Results of the Inventory of Non-Ordinary Experiences (INOE). In C. Kravette (Chair), Comparing Non-Ordinary Experiences across Cultures: Methodological Innovations and Findings from the US and India. Symposium to be conducted at the annual meeting of the American Academy of Religion.
+1. **Wolf, M. G.** & Ihm, E. (2019, November). Validation Methods and Results of the Inventory of Non-Ordinary Experiences (INOE). In C. Kravette (Chair), Comparing Non-Ordinary Experiences across Cultures: Methodological Innovations and Findings from the US and India. Symposium conducted at the annual meeting of the American Academy of Religion.
 
 1. McNeish, D. & **Wolf, M. G.** (2019, September). Sum Scores are Factor Scores. Presented at Arizona State University for the Quantitative Psychology Design and Data Analysis seminar, Tempe, AZ.
 
