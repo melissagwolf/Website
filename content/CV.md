@@ -28,7 +28,7 @@ Minors: Psychology, Anthropology
 
 1. **Wolf, M. G.**, Ihm, E., Maul, A., & Taves, A. (in press). Survey item validation. In S. Engler & M. Stausberg (Eds.), *Handbook of Research Methods in the Study of Religion (2nd ed.)*. Routledge.
 
-1. Clairmont, A., **Wolf, M. G.**, & Maul, A. (in press). The prevention and detection of deception in self-report survey data. In U. Luhanga & G. Harbaugh (Eds.), *Basic Elements of Survey Research in Education: Addressing the Problems Your Advisor Never Told You About*. Charlotte, NC: Information Age Publishing..
+1. Clairmont, A., **Wolf, M. G.**, & Maul, A. (in press). The prevention and detection of deception in self-report survey data. In U. Luhanga & G. Harbaugh (Eds.), *Basic Elements of Survey Research in Education: Addressing the Problems Your Advisor Never Told You About*. Charlotte, NC: Information Age Publishing.
 
 1. Luo, Y. & **Wolf, M. G.** (2019). Item parameter recovery for the two parameter testlet model with different estimation methods. *Psychological Test and Assessment Modeling, 61*(1), 65-89.
 
