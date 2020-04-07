@@ -24,28 +24,30 @@ Minors: Psychology, Anthropology
 
 1. **Wolf, M. G.** (in preparation). Survey uses may influence survey responses. 
 
-1. McNeish, D, & **Wolf, M. G.** (in press). Thinking twice about sum scores. Behavior Research Methods.
+1. McNeish, D, & **Wolf, M. G.** (in press). Thinking twice about sum scores. *Behavior Research Methods*.
 
 1. **Wolf, M. G.**, Ihm, E., Maul, A., & Taves, A. (in press). Survey item validation. In S. Engler & M. Stausberg (Ed.), Handbook of Research Methods in the Study of Religion (2nd ed.). Routledge.
 
-1. Clairmont, A., **Wolf, M. G.**, & Maul, A. (in press). The prevention and detection of deception in self-
-report survey data. In U. Luhanga & G. Harbaugh (Ed.), Basic Elements of Survey Research in
-Education.
+1. Clairmont, A., **Wolf, M. G.**, & Maul, A. (in press). The prevention and detection of deception in self-report survey data. In U. Luhanga & G. Harbaugh (Ed.), Basic Elements of Survey Research in Education.
 
-1. Luo, Y. & **Wolf, M. G.** (2019). Item parameter recovery for the two parameter testlet model with different estimation methods. Psychological Test and Assessment Modeling, 61(1), 65-89.
+1. Luo, Y. & **Wolf, M. G.** (2019). Item parameter recovery for the two parameter testlet model with different estimation methods. *Psychological Test and Assessment Modeling, 61*(1), 65-89.
 
-1. Ghafoori, B., **Wolf, M. G.**, Nylund-Gibson, K., & Felix, E. D. (2019). A naturalistic study exploring mental health outcomes following trauma-focused treatment among diverse survivors of crime and violence. Journal of Affective Disorders, 245 , 617–625. https://doi.org/10.1016/j.jad.2018.11.
+1. Ghafoori, B., **Wolf, M. G.**, Nylund-Gibson, K., & Felix, E. D. (2019). A naturalistic study exploring mental health outcomes following trauma-focused treatment among diverse survivors of crime and violence. *Journal of Affective Disorders, 245*, 617–625. https://doi.org/10.1016/j.jad.2018.11.
 
 
-1. Raines, T.C., **Gordon, M.**, Harrell-Williams, L.M., Diliberto, R.A, & Parke, E.M. (2017). Adaptive skills and academic achievement in Latino students. Journal of Applied School Psychology, 245 - 260.
+1. Raines, T.C., **Gordon, M.**, Harrell-Williams, L.M., Diliberto, R.A, & Parke, E.M. (2017). Adaptive skills and academic achievement in Latino students. *Journal of Applied School Psychology*, 245 - 260.
 
 1. **Gordon, M.**, VanderKamp, E. & Halic, O. (2015). Research brief: International Baccalaureate programmes in Title I schools in the United States: Accessibility, participation and university enrollment.
 
-1. Bergeron, L. & **Gordon, M.** (2015). Establishing a STEM pipeline: Trends in male and female enrollment and performance in higher level STEM courses. International Journal of Science and Mathematics Education, 1 - 18.
+1. Bergeron, L. & **Gordon, M.** (2015). Establishing a STEM pipeline: Trends in male and female enrollment and performance in higher level STEM courses. *International Journal of Science and Mathematics Education*, 1 - 18.
 
-1. **Gordon, M.**, & Bergeron, L. (2014). The use of multilevel modeling and the level two residual file to explore the relationship between Middle Years Programme student performance and Diploma Programme student performance. Social Science Research, 50, 147-163.
+1. **Gordon, M.**, & Bergeron, L. (2014). The use of multilevel modeling and the level two residual file to explore the relationship between Middle Years Programme student performance and Diploma Programme student performance. *Social Science Research*, 50, 147-163.
 
 ### Presentations
+
+1. **Wolf, M. G.**, Ihm, E., Katz, D., & Maul, A. (2020, June). Improving Psychological Measurement: Introducing the RPE Method.  Workshop to be presented at the annual meeting of the Society for the Improvement of Psychological Science, Victoria, BC.
+
+1. **Wolf, M. G.** (2020, April). The Response Process Evaluation Method.  Paper to be presented at the meeting of the International Objective Measurement Workshop, San Francisco, CA.
 
 1. **Wolf, M. G.** & Ihm, E. (2019, November). Validation Methods and Results of the Inventory of Non-Ordinary Experiences (INOE). In C. Kravette (Chair), Comparing Non-Ordinary Experiences across Cultures: Methodological Innovations and Findings from the US and India. Symposium to be conducted at the annual meeting of the American Academy of Religion.
 
