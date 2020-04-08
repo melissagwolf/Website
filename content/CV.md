@@ -22,7 +22,7 @@ Minors: Psychology, Anthropology
 
 ### Publications
 
-1. **Wolf, M. G.** (in preparation). Survey uses may influence survey responses. 
+1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. 
 
 1. McNeish, D, & **Wolf, M. G.** (in press). Thinking twice about sum scores. *Behavior Research Methods*.
 
