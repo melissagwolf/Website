@@ -32,16 +32,16 @@ Minors: Psychology, Anthropology
 
 1. Luo, Y. & **Wolf, M. G.** (2019). Item parameter recovery for the two parameter testlet model with different estimation methods. *Psychological Test and Assessment Modeling, 61*(1), 65-89.
 
-1. Ghafoori, B., **Wolf, M. G.**, Nylund-Gibson, K., & Felix, E. D. (2019). A naturalistic study exploring mental health outcomes following trauma-focused treatment among diverse survivors of crime and violence. *Journal of Affective Disorders, 245*, 617–625. https://doi.org/10.1016/j.jad.2018.11.
+1. Ghafoori, B., **Wolf, M. G.**, Nylund-Gibson, K., & Felix, E. D. (2019). A naturalistic study exploring mental health outcomes following trauma-focused treatment among diverse survivors of crime and violence. *Journal of Affective Disorders, 245*, 617–625. https://doi.org/10.1016/j.jad.2018.11.060
 
 
-1. Raines, T.C., **Gordon, M.**, Harrell-Williams, L.M., Diliberto, R.A, & Parke, E.M. (2017). Adaptive skills and academic achievement in Latino students. *Journal of Applied School Psychology*, 245 - 260.
+1. Raines, T.C., **Gordon, M.**, Harrell-Williams, L.M., Diliberto, R.A, & Parke, E.M. (2017). Adaptive skills and academic achievement in Latino students. *Journal of Applied School Psychology*, 245 - 260. https://doi.org/10.1080/15377903.2017.1292974
 
-1. **Gordon, M.**, VanderKamp, E. & Halic, O. (2015). Research brief: International Baccalaureate programmes in Title I schools in the United States: Accessibility, participation and university enrollment.
+1. **Gordon, M.**, VanderKamp, E. & Halic, O. (2015). Research brief: International Baccalaureate programmes in Title I schools in the United States: Accessibility, participation and university enrollment. https://www.ibo.org/globalassets/publications/ib-research/title-1-schools-research.pdf
 
-1. Bergeron, L. & **Gordon, M.** (2015). Establishing a STEM pipeline: Trends in male and female enrollment and performance in higher level STEM courses. *International Journal of Science and Mathematics Education*, 1 - 18.
+1. Bergeron, L. & **Gordon, M.** (2015). Establishing a STEM pipeline: Trends in male and female enrollment and performance in higher level STEM courses. *International Journal of Science and Mathematics Education*, 1 - 18. http://dx.doi.org/10.1007/s10763-015-9693-7
 
-1. **Gordon, M.**, & Bergeron, L. (2014). The use of multilevel modeling and the level two residual file to explore the relationship between Middle Years Programme student performance and Diploma Programme student performance. *Social Science Research*, 50, 147-163.
+1. **Gordon, M.**, & Bergeron, L. (2014). The use of multilevel modeling and the level two residual file to explore the relationship between Middle Years Programme student performance and Diploma Programme student performance. *Social Science Research*, 50, 147-163. https://doi.org/10.1016/j.ssresearch.2014.11.004
 
 ### Presentations
 
