@@ -6,6 +6,9 @@ Doctoral Candidate in [Education](https://education.ucsb.edu/), Emphasis in [Qua
 University of California, Santa Barbara  
 Advisor: [Andrew Maul](https://education.ucsb.edu/research-faculty/bio?first=Andrew&last=Maul)
 
+Master of Arts in Education
+University of Santa Barbara, 2020
+
 Master of Arts in Research Methods and Statistics  
 University of Denver, 2017  
 Advisor: Kathy Green
@@ -49,7 +52,7 @@ Minors: Psychology, Anthropology
 
 ### Presentations
 
-1. **Wolf, M. G.**, Ihm, E., Katz, D., & Maul, A. (2020, June). Improving Psychological Measurement: Introducing the RPE Method.  Workshop to be presented at the annual meeting of the Society for the Improvement of Psychological Science, Victoria, BC.
+1. **Wolf, M. G.**, Ihm, E., Katz, D., & Maul, A. (2020, June). Improving Psychological Measurement: Introducing the RPE Method.  Workshop presented at the annual meeting of the Society for the Improvement of Psychological Science, Virtual Meeting.
 
 1. **Wolf, M. G.** (2020, April). The Response Process Evaluation Method.  Paper to be presented at the meeting of the International Objective Measurement Workshop, San Francisco, CA.
 
@@ -116,6 +119,7 @@ Psychologists, San Antonio, TX.
 
 ## Honors and Awards
 
+- Block Grant Dissertation Award, University of California, Santa Barbara (2020)
 - Department of Education Excellence Award for Research ($2,000 award) (2019)
 - Grad Slam Finalist (Top 9 out of 79); $750 award (2019)
 - Block Grant Fellowship Award, University of California, Santa Barbara (2018)
