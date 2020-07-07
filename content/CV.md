@@ -7,7 +7,7 @@ University of California, Santa Barbara
 Advisor: [Andrew Maul](https://education.ucsb.edu/research-faculty/bio?first=Andrew&last=Maul)
 
 Master of Arts in Education  
-University of Santa Barbara, 2020
+University of California, Santa Barbara, 2020
 
 Master of Arts in Research Methods and Statistics  
 University of Denver, 2017  
@@ -48,7 +48,7 @@ Minors: Psychology, Anthropology
 
 ### Under Review
 
-1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. 
+1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. *Review of General Psychology*.
 
 ### Presentations
 
@@ -180,8 +180,8 @@ Introduction to Qualitative Research, Ethnography, Anthropology of Education, So
 
 ## Software
 
-Proficient: SPSS, Mplus, HLM  
-Intermediate: R, Excel, GPower  
+Proficient: R, Shiny, SPSS, Mplus, HLM  
+Intermediate: Excel, GPower  
 Basic: SAS, Stata
 
 
