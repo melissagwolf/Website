@@ -6,7 +6,7 @@ Doctoral Candidate in [Education](https://education.ucsb.edu/), Emphasis in [Qua
 University of California, Santa Barbara  
 Advisor: [Andrew Maul](https://education.ucsb.edu/research-faculty/bio?first=Andrew&last=Maul)
 
-Master of Arts in Education
+Master of Arts in Education  
 University of Santa Barbara, 2020
 
 Master of Arts in Research Methods and Statistics  
