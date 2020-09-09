@@ -48,7 +48,7 @@ Minors: Psychology, Anthropology
 
 ### Under Review
 
-1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. *Review of General Psychology*.
+1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. 
 
 ### Presentations
 
