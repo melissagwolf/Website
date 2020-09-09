@@ -50,6 +50,12 @@ Minors: Psychology, Anthropology
 
 1. **Wolf, M. G.** (under review). Survey uses may influence survey responses. 
 
+1. McNeish, D. & **Wolf, M. G.** (under review). Dynamic Fit Index Cutoffs for Confirmatory Factor Analysis Models. *Psychological Methods*.
+
+### Packages and Applications
+
+1. **Wolf, M. G.** & McNeish, D. (2020). Dynamic Model Fit. R Shiny application version 0.1.0.	https://www.dynamicfit.app 
+
 ### Presentations
 
 1. **Wolf, M. G.**, Ihm, E., Katz, D., & Maul, A. (2020, June). Improving Psychological Measurement: Introducing the RPE Method.  Workshop presented at the annual meeting of the Society for the Improvement of Psychological Science, Virtual Meeting.
@@ -136,7 +142,7 @@ Teaching Assistant 2019 – Present
 Introduction to Statistics  
 University of California, Santa Barbara
 
-Psychometric Consultant 2017 – Present  
+Psychometric Specialist 2017 – Present  
 John Templeton Foundation Grant (61187): What is Religious Experience?  
 Validating and Testing the Inventory of Non-Ordinary Experiences  
 University of California, Santa Barbara
