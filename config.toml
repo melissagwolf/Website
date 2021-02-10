@@ -6,7 +6,7 @@ googleAnalytics = "UA-152937120-3"
 enableRobotsTXT = true
 canonifyURLs = true
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$" "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents = "↩"
 
 [permalinks]

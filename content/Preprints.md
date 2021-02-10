@@ -25,9 +25,9 @@ When validating psychological surveys, researchers tend to concentrate on analyz
   <summary>*Abstract*</summary>
 Model fit assessment is a central component of evaluating confirmatory factor analysis models. Fit indices like RMSEA, SRMR, and CFI remain popular and researchers often judge fit based on suggestions from Hu and Bentler (1999), who derived cutoffs that distinguish between fit index distributions of true and misspecified models. However, methodological studies note that the location and variability of fit index distributions – and, consequently, cutoffs distinguishing between true and misspecified fit index distributions – are not fixed but vary as a complex interaction of model characteristics like sample size, factor reliability, number of items, and number of factors. Many studies over the last 15 years have cautioned against fixed cutoffs and the faulty conclusions they can trigger. However, practical alternatives are absent, so fixed cutoffs have remained the status quo despite their shortcomings. Criticism of fixed cutoffs stem primarily from the fact that they were derived from one specific confirmatory factor analysis model and lack generalizability. To address this, we propose dynamic cutoffs such that derivation of cutoffs is adaptively tailored to the specific model and data being evaluated. This creates customized cutoffs that are designed to distinguish between true and misspecified fit index distributions in the researcher’s particular context. Importantly, we show that the method does not require knowledge of the “true” model to accomplish this. As with fixed cutoffs, the procedure requires Monte Carlo simulation, so we provide an open-source, web-based Shiny application that automates the entire process to make the method as accessible as possible.
 
-[*Shiny App*](https://dynamicfit.app)
-  
 </details>
+
+- [*Shiny App*](https://dynamicfit.app)
 
 [**Thinking Twice About Sum Scores**](https://psyarxiv.com/3wy47/)
 <details>
