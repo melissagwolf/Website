@@ -29,10 +29,10 @@ footnotereturnlinkcontents = "↩"
     name = "SPSS to R"
     url = "/spss to r/"
     weight = 4
-#[[menu.main]]
-#    name = "Monte Carlo"
-#    url = "/monte carlo/"
-#    weight = 5
+[[menu.main]]
+    name = "Survey Participation"
+    url = "/Survey_Participation/"
+    weight = 5
 
 [params]
     description = "Melissa Gordon Wolf Melissa G Wolf UCSB Psychometrics RPE"
