@@ -8,12 +8,6 @@ pagetitle: survey-participation
 
 To participate in the child development survey, [click here](http://ucsbeducation.az1.qualtrics.com/jfe/form/SV_3ZTQbYXL5nQaLyJ).
 
-<a href="https://www.facebook.com/" target="_blank">Go to application</a> 
-
-<a href="https://profiles.ucr.edu/app/home/profile/stephanm" target="_blank">Stephanie Moore</a> is an assistant professor in the School Psychology program at the University of California, Riverside. 
-
-[Stephanie Moore](https://profiles.ucr.edu/app/home/profile/stephanm) is an assistant professor in the School Psychology program at the University of California, Riverside.
-
 <br>
 <details>
   <summary>About the Research Team</summary>
@@ -22,9 +16,9 @@ To participate in the child development survey, [click here](http://ucsbeducatio
 <br>
 <br>
 <img src="/Agustina2.png" style="max-width:7%;min-width:40px;padding-right:10px;float:left;">
-[Agustina Bertone](https://nfrc.ucla.edu/team/agustina-bertone-phd) is a Postdoctoral Fellow in the Nathanson Family Resilience Center at the University of California, Los Angeles.
+<a href="https://nfrc.ucla.edu/team/agustina-bertone-phd" target="_blank">Agustina Bertone</a> is a Postdoctoral Fellow in the Nathanson Family Resilience Center at the University of California, Los Angeles.
 <br>
 <br>
 <img src="/me.png" style="max-width:7%;min-width:40px;padding-right:10px;float:left;">
-[Melissa Wolf](https://www.melissagwolf.com) is a PhD candidate at the University of California, Santa Barbara, focusing on the design, validation, and analysis of self-report surveys.
+<a href="https://www.melissagwolf.com" target="_blank">Melissa Wolf</a> is a PhD candidate at the University of California, Santa Barbara, focusing on the design, validation, and analysis of self-report surveys.
 </details>
