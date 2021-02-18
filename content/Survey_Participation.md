@@ -9,9 +9,8 @@ pagetitle: survey-participation
 To participate in the child development survey, [click here](http://ucsbeducation.az1.qualtrics.com/jfe/form/SV_3ZTQbYXL5nQaLyJ).
 
 <br>
-
 <details>
-  <summary>Our Research Team</summary>
+  <summary>About the Research Team</summary>
 <img src="/Steph2.png" style="max-width:7%;min-width:40px;padding-right:10px;padding-top:7px;float:left;">
 [Stephanie Moore](https://profiles.ucr.edu/app/home/profile/stephanm) is an assistant professor in the School Psychology department at the University of California, Riverside.  
 <br>
