@@ -15,9 +15,13 @@ To participate in the child development survey, [click here](http://ucsbeducatio
 [Stephanie Moore](https://profiles.ucr.edu/app/home/profile/stephanm) is an assistant professor in the School Psychology department at the University of California, Riverside.
  
  
+  
+   
  
 <img src="/me.png" style="max-width:8%;min-width:40px;float:left;"/>
 [Melissa Wolf](www.melissagwolf.com) is a PhD candidate at the University of California, Santa Barbara, focusing on the design, validation, and analysis of self-report surveys.
+ 
+ 
  
  
  
