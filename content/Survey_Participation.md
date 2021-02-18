@@ -8,11 +8,17 @@ pagetitle: survey-participation
 
 To participate in the child development survey, [click here](http://ucsbeducation.az1.qualtrics.com/jfe/form/SV_3ZTQbYXL5nQaLyJ).
 
+<a href="https://www.facebook.com/" target="_blank">Go to application</a> 
+
+<a href="https://profiles.ucr.edu/app/home/profile/stephanm" target="_blank">Stephanie Moore</a> is an assistant professor in the School Psychology program at the University of California, Riverside. 
+
+[Stephanie Moore](https://profiles.ucr.edu/app/home/profile/stephanm) is an assistant professor in the School Psychology program at the University of California, Riverside.
+
 <br>
 <details>
   <summary>About the Research Team</summary>
 <img src="/Steph2.png" style="max-width:7%;min-width:40px;padding-right:10px;padding-top:7px;float:left;">
-<a href="https://profiles.ucr.edu/app/home/profile/stephanm" target="_blank><Stephanie Moore></a> is an assistant professor in the School Psychology program at the University of California, Riverside.  
+<a href="https://profiles.ucr.edu/app/home/profile/stephanm" target="_blank">Stephanie Moore</a> is an assistant professor in the School Psychology program at the University of California, Riverside. 
 <br>
 <img src="/Agustina2.png" style="max-width:7%;min-width:40px;padding-right:10px;float:left;">
 [Agustina Bertone](https://nfrc.ucla.edu/team/agustina-bertone-phd) is a Postdoctoral Fellow in the Nathanson Family Resilience Center at the University of California, Los Angeles.
