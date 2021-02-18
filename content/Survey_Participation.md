@@ -11,10 +11,8 @@ To participate in the child development survey, [click here](http://ucsbeducatio
 
 **Research Team**
 
-<img src="/me.png" style="max-width:15%;min-width:40px;float:none;">
-<img src="/Agustina.jpg" style="max-width:15%;min-width:40px;float:none;">
-<img src="/Steph.png" style="max-width:15%;min-width:40px;float:none;">
-
-<img src="/test.jpg" style="max-width:20%;min-width:40px;float:center;" alt="Me!" />
+<img src="/me.png" style="max-width:15%;min-width:40px;max-height:15%;float:none;">
+<img src="/Agustina.jpg" style="max-width:15%;min-width:40px;max-height:15%;float:none;">
+<img src="/Steph.png" style="max-width:15%;min-width:40px;max-height:15%;float:none;">
 
 
