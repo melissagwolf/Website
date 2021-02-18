@@ -5,6 +5,7 @@ output:
 pagetitle: spss-to-r
 ---
 Like many others applied quantitative researchers, I learned statistics on the point-and-click software SPSS.  However, when I wanted to transition to R, I couldn't find any material that demonstrated how to do an analysis in SPSS and R simultaneously.        
+<img src="me round.jpg" style="max-width:20%;min-width:40px;float:right;" alt="Me!" />
 
 As the TA of our intro stat sequence, I've begun creating labs that include instructions in SPSS (point and click) and the corresponding R script necessary to produce the same output.  If you're interested in transitioning from SPSS to R, I hope you'll find this helpful!
 
