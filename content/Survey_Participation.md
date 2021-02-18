@@ -2,9 +2,9 @@
 title: ""
 output:
   html_document:
-pagetitle: preprints
+pagetitle: survey_participation
 ---
-### Selected preprints or publications
+### Welcome!
 
-To participate in the childhood survey, [click here](http://ucsbeducation.az1.qualtrics.com/jfe/form/SV_57wbRcrCeXbtdNc).
+To participate in the child development survey, [click here](http://ucsbeducation.az1.qualtrics.com/jfe/form/SV_57wbRcrCeXbtdNc).
 
