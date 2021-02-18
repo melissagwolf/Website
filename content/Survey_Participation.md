@@ -15,6 +15,5 @@ To participate in the child development survey, [click here](http://ucsbeducatio
 <a href="www.melissagwolf.com">
 <img src="/me.png" style="max-width:12%;min-width:40px;float:none;"/>
 </a>
-
 <img src="/Steph2.png" style="max-width:12%;min-width:40px;float:none;">
 <img src="/Agustina2.png" style="max-width:12%;min-width:40px;float:none;">
