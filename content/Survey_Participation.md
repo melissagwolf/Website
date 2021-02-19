@@ -12,6 +12,7 @@ To participate in the child development survey, [click here](http://ucsbeducatio
 <details>
   <summary>About the Research Team</summary>
 <img src="/Steph2.png" style="max-width:8%;min-width:40px;padding-right:10px;padding-top:7px;float:left;">
+<br>
 <a href="https://profiles.ucr.edu/app/home/profile/stephanm" target="_blank">Stephanie Moore</a> is an assistant professor in the School Psychology program at the University of California, Riverside. 
 <br>
 <br>
