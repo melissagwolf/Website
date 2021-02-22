@@ -52,6 +52,8 @@ Minors: Psychology, Anthropology
 
 1. McNeish, D. & **Wolf, M. G.** (under review). Dynamic Fit Index Cutoffs for Confirmatory Factor Analysis Models. *Psychological Methods*.
 
+1. Boness, C., Helle, A. C., Miller, M. B., **Wolf, M. G.**, & Sher, K. J. (under review). Who opts in to alcohol feedback and how does that impact behavior? A pilot trial. *Journal of Substance Abuse Treatment*.
+
 ### Packages and Applications
 
 1. **Wolf, M. G.** & McNeish, D. (2020). Dynamic Model Fit. R Shiny application version 0.1.0.	https://www.dynamicfit.app 
